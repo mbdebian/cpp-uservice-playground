@@ -4,4 +4,4 @@ project(cpp_uservice_playground)
 set(CMAKE_CXX_STANDARD 14)
 
 add_executable(cpp_uservice_playground
-        README.md)
+        README.md src/main.cpp)
